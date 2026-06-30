@@ -1,18 +1,145 @@
-# 💫 About Me:
-I have always believed that the best way to learn something is to build it. That curiosity has taken me from writing my first programs to developing full stack web applications, exploring data science, and now diving deeper into artificial intelligence and machine learning. Every project teaches me something new, and every bug is simply another puzzle waiting to be solved.<br><br>I enjoy working across the entire development process, from understanding a problem and designing a solution to writing clean code, testing it, and refining it until everything works as intended. Whether I am building responsive web applications with the analyzing datasets with Python and SQL, or experimenting with machine learning models, I like understanding not just how something works, but why it works.<br><br>Lately, my focus has been on AI, deep learning, and large language models because I believe they are shaping the future of technology. My goal is not just to train models but to build intelligent systems that solve meaningful real world problems. There is something incredibly satisfying about turning raw data into insights and ideas into working software.<br><br>Outside of coding, I enjoy learning about new technologies, improving my problem solving skills, and contributing to projects that challenge me to think differently. I am the kind of person who can spend hours tracking down a single bug, only to discover it was a missing semicolon, and somehow still call it a productive day.<br><br>I am always looking for opportunities to collaborate, learn from experienced developers, and build software that makes a difference. After all, the best code is not just the one that runs, but the one that keeps teaching you something every time you write it.
+<h1 align="center">Hi there! 👋 I'm Noyan Siddiqui</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/noyan-siddiqui-b39139373) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:noyansiddiqui99@gmail.com) 
+## 👨‍💻 About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=noyansiddiqui99-maker&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=noyansiddiqui99-maker&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=noyansiddiqui99-maker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a passionate developer who enjoys building practical, well-engineered projects across different parts of the stack.
+
+- 🔭 Currently learning and building new projects
+- 🤖 Exploring machine learning and automation
+- 💻 Comfortable across full-stack web, scripting, and tooling
+- 💼 Open to collaboration and opportunities
+- 🧠 Interested in: AI/ML, Full-Stack Development, Automation
 
 ---
-[![](https://komarev.com/ghpvc/?username=noyansiddiqui99-maker&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⭐ LATEST PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Project One
+Short description of your latest/flagship project goes here — what it does and the problem it solves.
+
+`Tech` `Stack` `Here`
+
+</td>
+<td width="50%">
+
+### 📋 Project Two
+Short description of your second featured project goes here.
+
+`Tech` `Stack` `Here`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 MORE PROJECTS
+
+<table>
+<tr>
+<td width="33%">
+
+### 💡 Project Three
+Brief description of this project.
+
+`Tech` `Stack`
+
+</td>
+<td width="33%">
+
+### 🛠️ Project Four
+Brief description of this project.
+
+`Tech` `Stack`
+
+</td>
+<td width="33%">
+
+### 📱 Project Five
+Brief description of this project.
+
+`Tech` `Stack`
+
+</td>
+</tr>
+</table>
+
+> 👉 See pinned repos below for live demos and code!
+
+---
+
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=noyansiddiqui99-maker&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noyansiddiqui99-maker&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noyansiddiqui99-maker&theme=radical" />
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noyansiddiqui99-maker/noyansiddiqui99-maker/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+</p>
+
+---
+
+## 🛠 TECH STACK
+
+**Languages**
+<br>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**
+<br>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Databases & Backend Services**
+<br>
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Developer Tools**
+<br>
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📫 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://github.com/noyansiddiqui99-maker"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>"Building things, one commit at a time."</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=noyansiddiqui99-maker&color=blueviolet" alt="Profile views" />
+</p>
