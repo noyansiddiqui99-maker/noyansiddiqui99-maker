@@ -101,11 +101,6 @@ Brief description of this project.
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=noyansiddiqui99-maker&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noyansiddiqui99-maker&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noyansiddiqui99-maker&theme=radical" />
 </p>
 
