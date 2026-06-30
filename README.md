@@ -23,18 +23,33 @@ I'm a passionate developer who enjoys building practical, well-engineered projec
 <td width="50%">
 
 ### 🚀 Project One
-Short description of your latest/flagship project goes here — what it does and the problem it solves.
+An end-to-end Electric Vehicle (EV) data analytics and machine learning project that analyzes global EV adoption trends, uncovers key factors influencing electric vehicle usage, and develops predictive models using real-world data. The project includes data preprocessing, exploratory data analysis, feature engineering, visualization, and model evaluation to generate actionable insights.
 
-`Tech` `Stack` `Here`
-
+## Tech Stack
+Programming Language: Python
+Data Analysis: Pandas, NumPy
+Data Visualization: Matplotlib, Plotly
+Machine Learning: Scikit-learn
+Model Evaluation: Scikit-learn Metrics
+Development Environment: Jupyter Notebook
+Version Control: Git & GitHub
 </td>
 <td width="50%">
 
 ### 📋 Project Two
-Short description of your second featured project goes here.
+Contreon is a full-stack creator subscription platform that empowers independent content creators to monetize their work directly through their audience. The platform offers tier-based subscriptions, exclusive content access, real-time community interaction, secure Stripe payments, revenue analytics, and moderation tools, providing creators with a transparent and affordable alternative to traditional creator platforms.
 
-`Tech` `Stack` `Here`
-
+## Tech Stack
+Frontend: React.js, HTML5, CSS3, JavaScript
+Backend: Node.js, Express.js
+Database: MongoDB
+Authentication: JWT, bcrypt
+Payments: Stripe API
+Real-Time Communication: Socket.IO
+Notifications: Socket.IO / Real-time Events
+File Storage: Cloudinary (if used)
+Version Control: Git & GitHub
+API Testing: Postman
 </td>
 </tr>
 </table>
@@ -48,9 +63,16 @@ Short description of your second featured project goes here.
 <td width="33%">
 
 ### 💡 Project Three
-Brief description of this project.
+An Inventory Management System designed to streamline inventory operations by enabling efficient product management, stock tracking, supplier management, and sales monitoring. The system helps businesses maintain accurate inventory records, reduce manual effort, and improve operational efficiency through a secure and user-friendly interface.
 
-`Tech` `Stack`
+### Tech Stack
+Frontend: React.js, HTML5, CSS3, JavaScript
+Backend: Node.js, Express.js
+Database: MongoDB (or MySQL if applicable)
+Authentication: JWT
+Version Control: Git & GitHub
+API Testing: Postman
+
 
 </td>
 <td width="33%">
@@ -89,13 +111,6 @@ Brief description of this project.
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/noyansiddiqui99-maker/noyansiddiqui99-maker/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
-</p>
-
----
 
 ## 🛠 TECH STACK
 
