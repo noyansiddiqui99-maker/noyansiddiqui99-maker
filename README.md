@@ -150,14 +150,6 @@ Reinforcement Learning    ░░░░░░░░░░░░░░░░░░
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=NoyarS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NoyarS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoyarS&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
@@ -186,7 +178,7 @@ Reinforcement Learning    ░░░░░░░░░░░░░░░░░░
 <div align="center">
 
 ```python
-class NoyarS:
+class NoyanS:
     def __init__(self):
         self.name        = "Noyan Siddiqui"
         self.role        = "Data Science Student → AI Engineer"
@@ -209,7 +201,7 @@ class NoyarS:
     def __repr__(self):
         return f"<{self.name} | shipping {self.focus[0]} while dreaming of {self.focus[-1]}>"
 
-me = NoyarS()
+me = NoyanS()
 print(me)
 ```
 
