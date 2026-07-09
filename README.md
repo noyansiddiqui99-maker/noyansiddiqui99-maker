@@ -146,18 +146,7 @@ Reinforcement Learning    ░░░░░░░░░░░░░░░░░░
 
 </div>
 
----
 
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Noyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NoyarS&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## ☕ Fun Fact
 
