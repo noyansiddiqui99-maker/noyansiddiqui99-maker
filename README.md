@@ -148,20 +148,6 @@ Reinforcement Learning    ░░░░░░░░░░░░░░░░░░
 
 ---
 
-## 📊 GitHub Stats
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NoyarS&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NoyarS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
