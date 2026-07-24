@@ -15,7 +15,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NoyarS&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/NoyarS?style=for-the-badge&color=blue&labelColor=1a1b27&label=FOLLOWERS)
-![Location](https://img.shields.io/badge/Based_in-Lahore%2C_Pakistan-2ea44f?style=for-the-badge)
 
 </div>
 
@@ -233,7 +232,7 @@ print(me)
 
 I'm always up for discussing deep learning ideas, contributing to open-source ML projects, or pairing up on something ambitious. If you're working on computer vision, LLMs, full-stack products, or anything data-driven — my inbox is open.
 
-📧 **noyansiddiqui99@gmail.com** &nbsp;·&nbsp; 📍 **Lahore, Pakistan**
+📧 **noyansiddiqui99@gmail.com** &nbsp;·&nbsp; 
 
 </div>
 
