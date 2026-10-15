@@ -13,7 +13,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=NoyarS&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/NoyarS?style=for-the-badge&color=blue&labelColor=1a1b27&label=FOLLOWERS)
 
 </div>
