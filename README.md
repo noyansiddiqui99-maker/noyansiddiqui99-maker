@@ -1,249 +1,195 @@
 <div align="center">
 
-# Hey, I'm Noyan Siddiqui 👋
+<img src="assets/hero.gif" width="100%" alt="Noyan Siddiqui — Data Science, AI and Machine Learning" />
 
-### Data Science Student · AI/ML Developer · Software Engineer
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://kaggle.com"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=flat-square&logo=firefox&logoColor=white" /></a>
+<a href="mailto:noyansiddiqui99@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+intelligent+systems;Exploring+Deep+Learning+%26+Computer+Vision;Turning+data+into+insights;Learning%2C+building%2C+and+improving+every+day" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/NoyarS">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://kaggle.com/YOUR-KAGGLE">
-  <img src="https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-<a href="mailto:noyansiddiqui99@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=NoyarS&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
+**Data Science Undergraduate @ FAST-NUCES Lahore**  
+*AI/ML · Deep Learning · Computer Vision · Software Development*
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<details open>
+<summary><b>01 / A little about me</b></summary>
 
-```python
-class NoyanSiddiqui:
+I like building things that make ideas tangible. My work spans software development, data analysis, and machine learning, with a growing focus on deep learning and computer vision.
 
-    def __init__(self):
-        self.name = "Noyan Siddiqui"
-        self.education = "BS Data Science @ FAST-NUCES"
-        self.location = "Lahore, Pakistan"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Data Analytics"
-        ]
-        self.currently_learning = [
-            "Advanced Deep Learning",
-            "LLMs",
-            "Model Optimization"
-        ]
+- 🧠 Exploring **PyTorch, CNNs, transfer learning, and computer vision**.
+- 🛠️ Building practical applications with **Python, SQL, JavaScript, and web technologies**.
+- 📊 Interested in turning raw data into useful insights.
+- 🔬 I enjoy understanding the reasoning behind a model—not just getting it to run.
+- ☕ Debugging is part of the process. Sometimes it is the whole process.
 
-    def say_hi(self):
-        print("Thanks for visiting my GitHub!")
-```
+</details>
 
-I'm a Data Science undergraduate at **FAST-NUCES Lahore**, interested in building practical solutions through machine learning, deep learning, and software development.
+<details>
+<summary><b>02 / What I'm focusing on</b></summary>
 
-* 🔭 Exploring deep learning and computer vision.
-* 🧠 Working with PyTorch, CNNs, and transfer learning.
-* 📊 Interested in data analysis and data-driven decision-making.
-* 💻 Experienced in developing full-stack applications and database systems.
-* 🌱 Always learning and experimenting with new technologies.
+| Area | Current interests |
+|:--|:--|
+| Deep Learning | Neural networks, CNN architectures, training workflows |
+| Computer Vision | Image classification, augmentation, inference |
+| Model Development | PyTorch, Torchvision, transfer learning |
+| Data | Data cleaning, EDA, visualization, SQL |
+| Software | Backend APIs, frontend applications, database design |
+
+</details>
 
 ---
 
-## ⚡ Tech Stack
+## 03 / Tech stack
 
-### AI / Machine Learning
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,sklearn" />
-</p>
+**AI · MACHINE LEARNING**
 
-### Data Science & Analytics
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Torchvision-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorBoard-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matlab" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+**LANGUAGES**
 
-### Development & Databases
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,nodejs,react,mysql,sqlite,postgres" />
-</p>
+**DATA · DEVELOPMENT · TOOLS**
 
-### Tools
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter,docker" />
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 04 / Selected work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 Computer Vision Pipeline
+Built an image pipeline for dataset loading, augmentation, CNN training, and inference on unseen images.
 
-Developed image-processing and computer-vision workflows using Python and deep learning techniques.
-
-**Tech:** Python · OpenCV · PyTorch
+`PyTorch` `Torchvision` `OpenCV`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔥 PyTorch Deep Learning Framework
+### 🧩 Modular PyTorch Framework
+Organized training code into reusable modules for data setup, model building, training, and utilities.
 
-Built modular deep-learning components to experiment with neural networks and model training.
-
-**Tech:** Python · PyTorch · TensorBoard
+`Python` `PyTorch` `OOP`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📈 Transfer Learning Experiments
+### 🔁 Transfer Learning
+Fine-tuned pretrained EfficientNet and ResNet models for image-classification experiments.
 
-Explored pretrained architectures such as ResNet and EfficientNet for image classification.
-
-**Tech:** PyTorch · CNN · Transfer Learning
+`PyTorch` `CNNs` `Transfer Learning`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+### 📊 FoodVision Mini
+Compared architectures, learning rates, and data configurations with experiment tracking.
+
+`PyTorch` `TensorBoard`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📦 Inventory Management System
+Developed inventory operations backed by a relational database, including product management and reporting.
 
-Developed an inventory management application with backend APIs, database integration, and a React frontend.
-
-**Tech:** React · Node.js · SQL Server
+`React` `Node.js` `SQL`
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Contreon
+Contributed to a collaborative full-stack product involving system design, feature development, and debugging.
 
-Worked on a subscription-based platform with creator profiles, authentication, payments, and messaging features.
-
-**Tech:** React · Node.js · JWT · Stripe
-
-</td>
-<td width="50%">
-
-### 📊 Data Analysis Projects
-
-Worked on data cleaning, exploration, visualization, and extracting useful insights from datasets.
-
-**Tech:** Python · Pandas · NumPy · Power BI
+`Full-Stack` `Git` `Teamwork`
 
 </td>
 </tr>
 </table>
 
----
-
-## 💼 Experience
-
-**Freelance Software Developer & Data Analyst**
-*January 2025 – Present*
-
-* Working on software development and data analysis tasks.
-* Building practical applications and exploring data-driven solutions.
-
-**Full-Stack Developer — Early-Stage Startup**
-*June 2025 – January 2026*
-
-* Contributed to full-stack application development.
-* Worked with frontend, backend, APIs, and database integration.
+**More areas I've worked on:** neural-network foundations, data analysis workflows, database applications, and C++ game-development projects.
 
 ---
 
-## 🎓 Education
+## 05 / Experience
 
-| Qualification       | Institution            | Duration            |
-| ------------------- | ---------------------- | ------------------- |
-| BS Data Science     | FAST-NUCES, Lahore     | Apr 2024 – Present  |
+**Freelance Software Developer & Data Analyst**  
+`Jan 2025 – Present` · Self-employed / Remote
+
+Working on software delivery and data-analysis tasks, from understanding requirements to building practical solutions.
+
+**Full-Stack Developer — Early-Stage Startup**  
+`Jun 2025 – Jan 2026` · Remote
+
+Contributed to application development across frontend, backend, APIs, debugging, and technical documentation.
+
+---
+
+## 06 / Education
+
+| Qualification | Institution | Period |
+|:--|:--|:--|
+| BS Data Science | FAST-NUCES, Lahore | Apr 2024 – Present |
 | FSc Pre-Engineering | Punjab College, Lahore | Mar 2023 – Aug 2024 |
-| Matriculation       | The Trust School       | Jan 2020 – Nov 2022 |
+| Matriculation | The Trust School | Jan 2020 – Nov 2022 |
 
 ---
 
-## 📊 GitHub Analytics
+<details>
+<summary><b>07 / A terminal-sized introduction</b></summary>
+
+```python
+class Noyan:
+    focus = ["Deep Learning", "Computer Vision", "LLMs"]
+    motto = "Consistency beats talent."
+    debugging_style = "One more print statement."
+
+    def build(self):
+        return "Learn → Experiment → Build → Improve"
+```
+
+</details>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NoyarS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+### Have an interesting idea? Let's build.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoyarS&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="90%" src="https://streak-stats.demolab.com?user=NoyarS&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=NoyarS&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/NoyarS/NoyarS/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NoyarS&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-*Interested in AI, Machine Learning, Data Science, or building something interesting? Let's connect.*
+Open to conversations about AI/ML, computer vision, data science, and software projects.
 
 <a href="mailto:noyansiddiqui99@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20Talk-Email%20Me-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-noyansiddiqui99%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**"Building today, learning every day."** 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=120&section=footer" />
+*Thanks for stopping by.*
 
 </div>
